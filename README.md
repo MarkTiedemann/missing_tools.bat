@@ -1,5 +1,7 @@
 # missing_tools.bat
 
+[![Build Status](https://dev.azure.com/mark-tiedemann/missing_tools.bat/_apis/build/status/MarkTiedemann.missing_tools.bat)](https://dev.azure.com/mark-tiedemann/missing_tools.bat/_build)
+
 **A Windows Batch script to performantly determine missing tools.**
 
 ```batch

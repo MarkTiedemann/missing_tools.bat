@@ -1,2 +1,4 @@
+pool:
+  vmImage: win1803
 steps:
 - powershell: .\test.ps1
