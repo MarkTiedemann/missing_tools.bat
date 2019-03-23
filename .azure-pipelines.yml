@@ -1,0 +1,2 @@
+steps:
+- powershell: .\test.ps1
